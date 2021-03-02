@@ -1,2 +1,2 @@
 # Homework
-Homework of <<machine learning>> by Hong-yi Lee.
+Homework of Machine learning by Hong-yi Lee.
